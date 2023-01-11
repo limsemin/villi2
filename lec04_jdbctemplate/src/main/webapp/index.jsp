@@ -17,19 +17,6 @@
 </head>
 <body>
                   <!-- ===========header================ -->
- <header>
-	<div class="container border-bottom border-dark">
-		<div class="row align-items-start mt-3 p-3 opacity-100">
-		  <div class="col mt-2"><a href="#"><i class="fas fa-calendar fa-3x text-dark"></i></a></div>
-		  <div class="col" align="center"><a href="getBoardList.do"><img src="resources/images/logo.png" alt="logo" width=90px height=90px ></a></div>
-		  
-		  <div class="col mt-2 text-end"><a href="#"><i class="fas fa-heart fa-3x text-dark"></i></a>
-		  <span class="mx-4"><a href="getUserList.do"><i class="fas fa-user fa-3x text-dark"></i></a></span>
-		  <span><a href="#"><i class="fas fa-search fa-3x text-dark" ></i></a></span>	
-		  </div>
-		</div>
-	</div>	
-</header>
 
                   <!-- ============banner=============== -->
   
