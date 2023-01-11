@@ -33,7 +33,7 @@
 
                   <!-- ============banner=============== -->
   
-  <div id="carouselExampleControls" class="carousel slide mt-3" data-bs-ride="carousel" align="center">
+  <div id="carouselExampleControls" class="carousel carousel-dark slide mt-3" data-bs-ride="carousel" align="center">
 				  <div class="carousel-inner">
 				        <div class="carousel-item active embed-responsive embed-responsive-4by3" data-bs-interval="100">
 				          <img src="resources/images/1.png"   class="d-block w-50 card-img-top embed-responsive-item" alt="banner1" width="300" height="600">
