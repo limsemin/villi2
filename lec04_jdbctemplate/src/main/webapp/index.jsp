@@ -32,14 +32,14 @@
 </header>
 
                   <!-- ============banner=============== -->
-  
+  <!-- 박혜정 -->
   <div id="carouselExampleControls" class="carousel carousel-dark slide mt-3" data-bs-ride="carousel" align="center">
 				  <div class="carousel-inner">
 				        <div class="carousel-item active embed-responsive embed-responsive-4by3" data-bs-interval="100">
 				          <img src="resources/images/1.png"   class="d-block w-50 card-img-top embed-responsive-item" alt="banner1" width="300" height="600">
 				        </div>
 					    <div class="carousel-item embed-responsive embed-responsive-4by3">
-					      <img src="resources/images/2.png" class="d-block w-50 card-img-top embed-responsive-item" alt="banner2" width="300" height="600">
+					      <img src="resources/images/22.png" class="d-block w-50 card-img-top embed-responsive-item" alt="banner2" width="300" height="600">
 					    </div>
 					    <div class="carousel-item embed-responsive embed-responsive-4by3">
 				          <img src="resources/images/3.png" class="d-block w-50 card-img-top embed-responsive-item" alt="banner3" width="300" height="600">
