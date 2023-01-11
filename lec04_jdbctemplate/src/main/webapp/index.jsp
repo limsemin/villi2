@@ -45,14 +45,6 @@
 				          <img src="resources/images/3.png" class="d-block w-50 card-img-top embed-responsive-item" alt="banner3" width="300" height="600">
 				       </div>
 				  </div>
-				  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-					    <span class="carousel-control-prev-icon bg-info" aria-hidden="true"></span>
-					    <span class="visually-hidden">Previous</span>
-				  </button>
-				  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-					    <span class="carousel-control-next-icon bg-info" aria-hidden="true"></span>
-					    <span class="visually-hidden">Next</span>
-				  </button>
 			</div>
   
   
